@@ -1,0 +1,12 @@
+fastapi==0.104.1
+uvicorn[standard]==0.23.2
+python-dotenv==1.0.0
+langchain==0.0.335
+langchain-openai==0.0.2
+langchain-community==0.0.16
+pydantic==2.4.2
+openai==1.2.4
+requests==2.31.0
+python-multipart==0.0.6
+tenacity==8.2.3
+typing-extensions==4.8.0
